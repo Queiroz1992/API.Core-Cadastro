@@ -1,0 +1,9 @@
+C:\Users\Filipe\Desktop\Alterdata-Fork\backend-netcore\src\core\obj\Debug\netstandard2.0\core.AssemblyInfoInputs.cache
+C:\Users\Filipe\Desktop\Alterdata-Fork\backend-netcore\src\core\obj\Debug\netstandard2.0\core.AssemblyInfo.cs
+C:\Users\Filipe\Desktop\Alterdata-Fork\backend-netcore\src\core\obj\Debug\netstandard2.0\core.csprojAssemblyReference.cache
+C:\Users\Filipe\Desktop\Alterdata-Fork\backend-netcore\src\core\bin\Debug\netstandard2.0\Alterdata.Bimer.Core.deps.json
+C:\Users\Filipe\Desktop\Alterdata-Fork\backend-netcore\src\core\bin\Debug\netstandard2.0\Alterdata.Bimer.Core.dll
+C:\Users\Filipe\Desktop\Alterdata-Fork\backend-netcore\src\core\bin\Debug\netstandard2.0\Alterdata.Bimer.Core.pdb
+C:\Users\Filipe\Desktop\Alterdata-Fork\backend-netcore\src\core\obj\Debug\netstandard2.0\Alterdata.Bimer.Core.dll
+C:\Users\Filipe\Desktop\Alterdata-Fork\backend-netcore\src\core\obj\Debug\netstandard2.0\Alterdata.Bimer.Core.pdb
+C:\Users\Filipe\Desktop\Alterdata-Fork\backend-netcore\src\core\obj\Debug\netstandard2.0\core.csproj.CoreCompileInputs.cache
